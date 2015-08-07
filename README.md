@@ -403,40 +403,48 @@ Utilize uma linguagem natural.
 
 #Heurísticas de Nielsen
 
-Feedback
-O sistema deve informar continuamente ao usuário sobre o que ele está fazendo.
-10 segundos é o limite para manter a atenção do usuário focalizada no diálogo.
-Falar a linguagem do usuário
-A terminologia deve ser baseada na linguagem do usuário e não orientada ao sistema. As informações devem ser organizadas conforme o modelo mental do usuário.
-Saídas claramente demarcadas
-O usuário controla o sistema, ele pode, a qualquer momento, abortar uma tarefa, ou desfazer uma operação e retornar ao estado anterior.
-Consistência
-Um mesmo comando ou ação deve ter sempre o mesmo efeito.
-A mesma operação deve ser apresentada na mesma localização e deve ser formatada/apresentada da mesma maneira para facilitar o reconhecimento.
-Prevenir erros
-Evitar situações de erro.
-Conhecer as situações que mais provocam erros e modificar a interface para que estes erros não ocorram.
-Minimizar a sobrecarga de memória do usuário
-O sistema deve mostrar os elementos de diálogo e permitir que o usuário faça suas escolhas, sem a necessidade de lembrar um comando específico.
-Atalhos
-Para usuários experientes executarem as operações mais rapidamente.
-Abreviações, teclas de função, duplo clique no mouse, função de volta em sistemas hipertexto.
-Atalhos também servem para recuperar informações que estão numa profundidade na árvore navegacional a partir da interface principal.
-Diálogos simples e naturais
-Deve-se apresentar exatamente a informação que o usuário precisa no momento, nem mais nem menos.
-A seqüência da interação e o acesso aos objetos e operações devem ser compatíveis com o modo pelo qual o usuário realiza suas tarefas.
-Boas mensagens de erro
-Linguagem clara e sem códigos.
-Devem ajudar o usuário a entender e resolver o problema.
-Não devem culpar ou intimidar o usuário.
-Ajuda e documentação
-O ideal é que um software seja tão fácil de usar (intuitivo) que não necessite de ajuda ou documentação.
-Se for necessária a ajuda deve estar facilmente acessível on-line.
+**Feedback
+-O sistema deve informar continuamente ao usuário sobre o que ele está fazendo.
+-10 segundos é o limite para manter a atenção do usuário focalizada no diálogo.
+
+**Falar a linguagem do usuário
+-A terminologia deve ser baseada na linguagem do usuário e não orientada ao sistema. As informações devem ser organizadas conforme o modelo mental do usuário.
+
+**Saídas claramente demarcadas
+-O usuário controla o sistema, ele pode, a qualquer momento, abortar uma tarefa, ou desfazer uma operação e retornar ao estado anterior.
+
+**Consistência
+-Um mesmo comando ou ação deve ter sempre o mesmo efeito.
+-A mesma operação deve ser apresentada na mesma localização e deve ser formatada/apresentada da mesma maneira para facilitar o reconhecimento.
+
+**Prevenir erros
+-Evitar situações de erro.
+-Conhecer as situações que mais provocam erros e modificar a interface para que estes erros não ocorram.
+
+**Minimizar a sobrecarga de memória do usuário
+-O sistema deve mostrar os elementos de diálogo e permitir que o usuário faça suas escolhas, sem a necessidade de lembrar um comando específico.
+
+**Atalhos
+-Para usuários experientes executarem as operações mais rapidamente.
+-Abreviações, teclas de função, duplo clique no mouse, função de volta em sistemas hipertexto.
+-Atalhos também servem para recuperar informações que estão numa profundidade na árvore navegacional a partir da interface principal.
+
+**Diálogos simples e naturais
+-Deve-se apresentar exatamente a informação que o usuário precisa no momento, nem mais nem menos.
+-A seqüência da interação e o acesso aos objetos e operações devem ser compatíveis com o modo pelo qual o usuário realiza suas tarefas.
+
+**Boas mensagens de erro
+-Linguagem clara e sem códigos.
+-Devem ajudar o usuário a entender e resolver o problema.
+-Não devem culpar ou intimidar o usuário.
+
+**Ajuda e documentação
+-O ideal é que um software seja tão fácil de usar (intuitivo) que não necessite de ajuda ou documentação.
+-Se for necessária a ajuda deve estar facilmente acessível on-line.
 
 #Sessão de Avaliação
 
-1. Visibilidade do status do sistema
-(Feedback)
+1. Visibilidade do status do sistema (Feedback)
 Verificação: Os usuários são mantidos informados sobre o progresso do sistema com apropriado feedback em um tempo razoável?
 Problema: _________________________________________________________________________________
 Grau de severidade
@@ -600,7 +608,8 @@ Acha que faltou algo? Quer dar alguma sugestão?
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 Caso ache necessário, adicionar mais perguntas.
-Artigos
+
+#Artigos
 Estudo da HUGE sobre scrolling: Everybody Scrolls
 As implicações do campo de busca na experiência do usuário
 Os problemas de design do novo padrão de navegação da Globo.com
